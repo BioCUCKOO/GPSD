@@ -19,7 +19,7 @@ The main requirements are listed below:
 
     The code is used for the input DSP(30,30) scoring by the GPSD models. The closer the score is to 1, the more likely it is that this site is a dephosphorylation site.
 
-* GPSD_\integration\_prediction.py
+* GPSD_integration\_prediction.py
 
     The code is used for the input DSP(30,30) scoring by the GPSD models integrated with BERT and GPT. The closer the score is to 1, the more likely it is that this site is a dephosphorylation site.
 
