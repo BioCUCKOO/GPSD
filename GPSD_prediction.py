@@ -587,7 +587,7 @@ def main():
     # feature extraction
     featuresall = seq2features(pred_seq, amino_acid_type)
     # model path
-    pnpath = "models/ALL/" + model_path
+    pnpath = "models/all/" + model_path
     # prediction
     pred_comb = list(test_predict(featuresall, pnpath))
     # results storage
